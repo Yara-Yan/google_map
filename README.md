@@ -24,9 +24,9 @@ app.js
 using live server, whenever I save my work, it reloads my html page, don't need to reload it mannually
 
 (2) insert the code code to html file with API keys
- <script async
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDo1xjThWUj_LShYQ4rB-45DVlLgsBB8iY&loading=async&callback=initMap">
-        </script>
+<script async
+    src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&loading=async&callback=initMap">
+</script>
         
 Q: what is API?
 API stands for Application Programming Interface.
